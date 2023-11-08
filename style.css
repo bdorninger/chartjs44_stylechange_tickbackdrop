@@ -1,0 +1,13 @@
+.chart-container {
+  max-width: 600;
+  max-height: 550;
+  min-width: 600;
+  min-height: 550;
+  width: 600;
+  height: 550;
+  background-color: grey;
+}
+
+#myChart {
+  background-color: white;
+}
